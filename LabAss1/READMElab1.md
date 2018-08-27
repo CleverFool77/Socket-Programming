@@ -25,8 +25,8 @@ C
 ```
 In two different terminals,
 
-> **Note:** Use gcc tcpserver.c -o server
-> **Note:** Use gcc tcpclient.c -o client
+* Note: Use gcc tcpserver.c -o server
+* Note: Use gcc tcpclient.c -o client
 
 Run it through ./server and ./client
 ```
