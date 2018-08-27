@@ -16,9 +16,7 @@ machine.
 
 ## Language Used
 
-``` 
-C
-```
+<img src="https://img.shields.io/badge/language-C-brightgreen.svg"/>
 
 ## How to compile
 
